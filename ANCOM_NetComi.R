@@ -50,7 +50,7 @@ plot(netprops_vir_16S,
      hubBorderWidth = 1,
      cexHubs = 1,
      cexNodes = 1,
-     cexLabels = 0,   #without nohub node label
+     cexLabels = 0,
      cexHubLabels	= 5, #hub node label
      nodeTransp = 0,
      shortenLabels = "none",
