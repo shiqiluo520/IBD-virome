@@ -2,8 +2,7 @@
 Code for: Unveiling the viral signature of inflammation in murine models of inflammatory bowel disease
 # Contents
 **Virome analysis**   
--ViroProfiler script   
--ICTV taxonomy script   
+-ViroProfiler script    
 -alpha and beta diversity script   
 -ANCOM and NetComi script   
 -Lme and cor script   
