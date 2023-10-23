@@ -1,5 +1,5 @@
 # IBD-virome
-Workflow and code for: Unveiling the viral signature of inflammation in murine models of inflammatory bowel disease
+Code for: Unveiling the viral signature of inflammation in murine models of inflammatory bowel disease
 # Contents
 **Virome analysis**   
 -ViroProfiler script   
