@@ -11,8 +11,8 @@ Code for: Unveiling the viral signature of inflammation in murine models of infl
 - `ANCOM_NetComi.R`: ANCOM and NetComi script.
 - `Lme_cor.R`: Lme and cor script.
 - `XGBOOST_SHAP.R`: XGBOOST and SHAP script.
-- `vOTUs.R`: vOTUs in IBD patient script.
 - `remap.sh` and `abundance.sh`: Remap public IBD virome data to reference viral contigs and calculate abundance.
+- `samtools.sh` and `vOTUs.R`: vOTUs in IBD patient script.
 
 ### Bacterial microbiome analysis (16S)
 
